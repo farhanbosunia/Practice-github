@@ -1,0 +1,120 @@
+
+body{
+    background: #f7dddd;
+   border: rgb(78, 158, 244) solid 5px;
+   border-radius: 50px;
+   
+}
+
+
+
+
+.main{
+    background-color: rgb(142, 195, 236);
+    max-width: 450px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+   
+
+}
+.checkbox-1{
+    text-align: center;
+    background-color: rgb(216, 225, 232);
+    max-width: 450px;
+    margin: 50px;
+    margin-left: 500px;
+    padding: 20px;
+    border: 2px solid black;
+    border-top: color(srgb red green blue);
+    border-left:solid rgb(238, 8, 146) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    border-top: solid rgb(0, 128, 49) 4px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  
+
+}
+
+
+
+.checkbox-2{
+    text-align: center;
+    background-color: rgb(216, 225, 232);
+    max-width: 450px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 2px;
+    border-top: color(srgb red green blue);
+    border-left:solid rgb(238, 8, 146) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    border-top: solid green 4px;
+    border-radius: 50px;
+    
+    
+
+}
+
+.checkbox-3{
+    text-align: center;
+    background-color: rgb(216, 225, 232);
+    max-width: 450px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-top: solid green 4px;
+    border-left:solid rgb(66, 21, 200) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    border-radius: 50px;
+   
+}
+
+
+.box{
+   text-align: right;
+    background-color: coral;
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    border-top: solid green 4px;
+    border-left:solid rgb(66, 21, 200) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    background-color: rgb(80, 255, 243);
+}
+
+.box-2{
+   /* margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-bottom: 50px;*/
+
+    margin: 20px 30px 40px 500px;
+    border-radius: 50px;
+    text-align: center;
+    border-top: solid green 4px;
+    border-left:solid rgb(66, 21, 200) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    background-color: rgb(127, 186, 182);
+}
+.box-3{
+  text-align: center;
+    margin: 20px 30px 40px 1000px;
+    border: 2px solid black;
+    border-top: solid green 4px;
+    border-left:solid rgb(66, 21, 200) 4px;
+    border-right: solid red 4px;
+    border-bottom: solid rgb(26, 60, 232) 4px;
+    background-color: rgb(80, 255, 243);
+    border-radius: 50px;
+
+    align-items: center;
+    justify-content: center;
+}
